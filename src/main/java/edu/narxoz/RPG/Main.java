@@ -7,6 +7,9 @@ import edu.narxoz.RPG.tournament.TournamentEngine;
 
 public class Main {
     public static void main(String[] args) {
+
+        // example fighting
+
         ArenaFighter fighter = new ArenaFighter(
                 "Knight",
                 100,
